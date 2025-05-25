@@ -8,6 +8,8 @@ import pandas as pd
 import time
 import random
 
+#hi
+
 CHROME_DRIVER_PATH = 'chromedriver.exe'
 
 # 1호선 서울역 리스트 반환 함수
