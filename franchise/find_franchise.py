@@ -1,6 +1,6 @@
 import pandas as pd
 
-# 기존 가게 목록 CSV 경로 (예: '점'으로 끝나는 가게들이 들어 있음)
+# 기존 가게 목록 CSV 경로 (예: '점'으로 끝나는 가게들이 들어 있음) 
 input_csv_path = "C:\\Cprogram\\SAI_FALCON\\foodsnap\\프랜차이즈_정리.csv"
 
 # 브랜드 목록 저장할 CSV 경로
